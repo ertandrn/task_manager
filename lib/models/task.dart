@@ -12,6 +12,7 @@ class Task {
         task: "Task1",
         description: "Description1",
         isDone: true),
+    /*
     Task(
         id: 1,
         date: "2021-01-10",
@@ -36,6 +37,7 @@ class Task {
         task: "Task5",
         description: "Description5",
         isDone: false),
+        */
   ];
 
   Task(
